@@ -19,7 +19,7 @@ Welcome, learner. This guide walks you through launching a reproducible cloud-ba
 Navigate to the repository page:
     https://github.com/niaiengineering/cloud-ai-integration-training
 
-
+(NOTE: You are already in the above website location - so no need to click on the link. This is more for reference in case you have to open GitHub Codespaces for any other repository.)
 ### 2. Launch Codespaces
 
 - Click the green `<> Code` button
