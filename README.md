@@ -33,7 +33,7 @@ You’ll find:
 - 📽️ Explanation of concepts
 - 💻 Sample code
 - 🧪 Hands-on coding environment
-🧱 Module StructureEach module includes:- README.md – onboarding guide and explanation
+🧱 Module Structure: Each module includes:- README.md – onboarding guide and explanation
 - requirements.txt – dependencies for that module
 - sample_code.py – annotated example
 - .devcontainer/ – reproducible Codespaces setup (optional)

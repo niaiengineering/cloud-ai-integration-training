@@ -1,0 +1,8 @@
+# Step 1: Remove the folder from Git tracking
+git rm -r --cached module-1-python-env-setup/venv_module1
+
+# Step 2: Commit the removal
+git commit -m "chore: remove tracked virtual environment folder from repo"
+
+# Step 3: Push the change to main
+git push origin main
