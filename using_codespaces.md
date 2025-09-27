@@ -57,7 +57,3 @@ python hello.py
 You should see:
 - A greeting message
 - GitHub API status code (e.g., 200)
-
-🧹 Optional Enhancements
-- Add .devcontainer/README.md to explain the setup
-- Include VS Code extensions in devcontainer.json
