@@ -1,0 +1,22 @@
+# Virtual environment
+venv_module2/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE/editor artifacts
+.vscode/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Devcontainer artifacts (optional)
+.devcontainer/*.log

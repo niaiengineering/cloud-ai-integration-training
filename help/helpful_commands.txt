@@ -1,0 +1,2 @@
+To get out of a venv in Git Bash:
+    deactivate

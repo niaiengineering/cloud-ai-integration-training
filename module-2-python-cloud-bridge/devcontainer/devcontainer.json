@@ -1,0 +1,26 @@
+{
+  "name": "module-2-python-cloud-bridge",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/devcontainers/features/pip-packages:1": {
+      "packages": [
+        "boto3",
+        "python-dotenv",
+        "requests"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.isort"
+      ]
+    }
+  },
+  "remoteUser": "vscode"
+}
